@@ -88,7 +88,7 @@ class App extends Component {
         </div>
 
         <div className="footer">
-       <a href="https://sdodemo-main-15ece7735c6.force.com/SafetyBridge/login?un=laura@cp-shell.demo&pw=salesforce1">or goto the Safety App</a>
+       <a href="https://sdodemo-main-15ece7735c6.force.com/SafetyBridge/login?un=laura@cp-shell.demo&pw=salesforce1">or go to the Safety App</a>
 
         </div>
       </div>
