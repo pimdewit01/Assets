@@ -28,7 +28,7 @@ class App extends Component {
       <div>
         <div className="title">
           <h1 className="intro">
-             Find your Starfighter
+             Identify an Asset using AI
           </h1>
         </div>
         <div className={classNames(
@@ -88,7 +88,7 @@ class App extends Component {
         </div>
 
         <div className="footer">
-       <a href="https://sdodemo-main-15f10ba49d0.force.com/shop">or visit our Community for reviews</a>
+       <a href="https://sdodemo-main-15ece7735c6.force.com/SafetyBridge/login?un=laura@cp-shell.demo&pw=salesforce1">or goto the Safety App</a>
 
         </div>
       </div>
